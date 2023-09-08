@@ -1,0 +1,32 @@
+{
+  "name": "formguardjs",
+  "version": "1.0.0",
+  "description": "Une bibliothèque JavaScript simple et efficace pour la validation des formulaires.",
+  "main": "formguard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://votre_url_de_dépôt.git"
+  },
+  "keywords": [
+    "form",
+    "validation",
+    "javascript",
+    "formguard",
+    "HTML"
+  ],
+  "author": "Hugo Doueil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://votre_url_de_dépôt/issues"
+  },
+  "homepage": "https://votre_url_de_dépôt#readme",
+  "devDependencies": {
+    // Aucune dépendances de développement
+  },
+  "dependencies": {
+    // Aucune dépendances
+  }
+}

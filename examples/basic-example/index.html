@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Exemple de base FormGuardJS</title>
+        <link rel="stylesheet" href="../../dist/formguard.css">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <form id="basicForm">
+            <div class="form-group">
+                <input type="text" id="username" name="username" required placeholder="Nom d'utilisateur">
+                <div class="error-message"></div>
+            </div>
+
+            <div class="form-group">
+                <input type="email" id="email" name="email" required placeholder="Email de l'utilisateur">
+                <div class="error-message"></div>
+            </div>
+
+            <div class="form-group">
+                <input type="text" id="age" name="age" required placeholder="Age de l'utilisateur">
+                <div class="error-message"></div>
+            </div>
+
+            <div class="form-group">
+                <input type="text" id="postalCode" name="postalCode" required placeholder="Code postal de l'utilisateur">
+                <div class="error-message"></div>
+            </div>
+
+            <input type="submit" value="Envoyer">
+        </form>
+
+        <script src="../../dist/formguard.js"></script>
+        <script src="script.js"></script>
+    </body>
+</html>
