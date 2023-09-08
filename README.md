@@ -2,10 +2,10 @@
 FormGuardJS est une bibliothèque de validation de formulaires simple et efficace pour le web. Assurez-vous que vos formulaires sont soumis correctement du premier coup avec notre système de règles de validation.
 
 ## Caractéristiques
-1. Simple d'utilisation : Ajoutez simplement un script et un style à votre HTML.
-2. Léger : Pas de dépendances, juste une bibliothèque pure JavaScript.
-3. Extensible : Ajoutez vos propres règles de validation facilement.
-4. Conception moderne : Des messages d'erreur visuellement attrayants pour une meilleure UX.
+- Simple d'utilisation : Ajoutez simplement un script et un style à votre HTML.
+- Léger : Pas de dépendances, juste une bibliothèque pure JavaScript.
+- Extensible : Ajoutez vos propres règles de validation facilement.
+- Conception moderne : Des messages d'erreur visuellement attrayants pour une meilleure UX.
 
 ## Comment commencer
 1. Inclure FormGuardJS dans votre projet
